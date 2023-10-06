@@ -1,4 +1,4 @@
-# 🥕 - Carrot
+# 🥕 Carrot
 
 ## 🥕 - Base
 
